@@ -2,7 +2,7 @@ import java.time.DayOfWeek;
 
 public class WeekDaysDisplay {
 
-    public static void main(String[] args) {
+    public static void main(String[] args
         // Display weekdays (Monday to Friday)
         System.out.println("The weekdays are:");
         
